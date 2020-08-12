@@ -3,7 +3,7 @@ package src.main.java.yaroslavshchur.collections.lists;
 import java.util.List;
 import java.util.ArrayList;
 public class DivisionByThree {
-    public static void DivideByThree() {
+    public void DivideByThree() {
         List<Integer> intArrayList = DivisionByThree.initList();
 
         System.out.println("ArrayList before removing multiples of 3: ");
